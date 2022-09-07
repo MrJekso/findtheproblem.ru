@@ -1,0 +1,40 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.747);
+    color: aliceblue;
+}
+.head_contact{
+    font-size: 80%;
+    display:flex;
+    background-color: blueviolet;
+    width: 100%;
+    padding-left: 10%;
+}
+.head_contact p {
+    margin-left: 2%;
+}
+.head_contact p a{
+    color: rgb(255, 255, 255);
+}
+header {
+    display: inline-block;
+    width: 100%;
+    background-color: rgb(29, 28, 28);
+    color: aliceblue;
+}
+.container{
+    background-color: rgba(24, 211, 71, 0.171);
+}
+.right{
+    width: 50%;
+    text-align: center;
+    float: left;
+    background-color: rgba(24, 27, 211, 0.877);
+}
+.left{
+    width: 50%;
+    text-align: center;
+    float: right;
+    background-color: rgba(24, 27, 211, 0.877);
+}
